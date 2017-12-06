@@ -1,0 +1,422 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.mytype2 {
+	font-family: "relation-two", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.mytype1 {
+	font-family:"Georgia"; 
+}
+
+.typekit {
+font-family: "relation-two", sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+
+
+.You_can_mix_and_match_items_in_our_buffet_style {
+  font-size: 27px;
+  font-family: "Georgia";
+  color: black;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 153.189px;
+  top: 240.427px;
+  z-index: 128;
+}
+
+
+.menunote_png {
+  background-color: rgb(254, 212, 167);
+  position: absolute;
+  left: -1px;
+  top: 179px;
+  width: 1203px;
+  height: 146px;
+  z-index: 127;
+}
+
+
+
+.breakfast_jpeg {
+  background-image: url(../images/breakfast.jpeg);
+  position: absolute;
+  left: -1px;
+  top: 325px;
+  width: 641px;
+  height: 562px;
+  z-index: 93;
+}
+
+
+.Breakfast {
+  font-size: 58px;
+  font-family: "Relation Two";
+  color: rgb(170, 34, 44);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.23924278242948,0,0,1.24003358946697,0,0);
+  -webkit-transform: matrix( 1.23924278242948,0,0,1.24003358946697,0,0);
+  -ms-transform: matrix( 1.23924278242948,0,0,1.24003358946697,0,0);
+  position: absolute;
+  left: 746.302px;
+  top: 372.071px;
+  width: 202.718px;
+  height: 52.237px;
+  z-index: 98;
+}
+
+
+.Breakfast_Pricing {
+  font-size: 53.404px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.48688313413059,0,0,0.48719383241697,0,0);
+  -webkit-transform: matrix( 0.48688313413059,0,0,0.48719383241697,0,0);
+  -ms-transform: matrix( 0.48688313413059,0,0,0.48719383241697,0,0);
+  position: absolute;
+  left: 572.825px;
+  top: 419.915px;
+  z-index: 97;
+}
+
+
+.Hotcakes__Waffles__Fruit_Salad__Bacon_Sausage_Eggs {
+  font-size: 38px;
+  font-family: "Georgia";
+  color: black;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.71306517366615,0,0,0.7135202071475,0,0);
+  -webkit-transform: matrix( 0.71306517366615,0,0,0.7135202071475,0,0);
+  -ms-transform: matrix( 0.71306517366615,0,0,0.7135202071475,0,0);
+  position: absolute;
+  left: 699.164px;
+  top: 488.848px;
+  width: 185.521px;
+  height: 264.199px;
+  z-index: 96;
+}
+
+.breakfast_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 640px;
+  top: 319px;
+  width: 562px;
+  height: 568px;
+  z-index: 95;
+}
+
+
+
+.Lunch {
+  font-size: 72px;
+  font-family: "Relation Two";
+  color: rgb(170, 34, 44);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 86.965px;
+  top: 932.584px;
+  width: 171px;
+  height: 57px;
+  z-index: 90;
+}
+
+
+.lunch_pricing {
+  font-size: 53.404px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.48685932944967,0,0,0.48685932944967,0,0);
+  -webkit-transform: matrix( 0.48685932944967,0,0,0.48685932944967,0,0);
+  -ms-transform: matrix( 0.48685932944967,0,0,0.48685932944967,0,0);
+  position: absolute;
+  left: -62.833px;
+  top: 991.415px;
+  z-index: 89;
+}
+
+
+.Fried_Chicken_Chciken_and_Wild_Rice_Casserole_C {
+  font-size: 27px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 87px;
+  top: 1100.146px;
+  width: 390px;
+  height: 156px;
+  z-index: 88;
+}
+
+.lunch_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 887px;
+  width: 640px;
+  height: 468px;
+  z-index: 87;
+}
+
+.lunch_jpeg {
+  background-image: url(../images/lunch.jpeg);
+  position: absolute;
+  left: 640px;
+  top: 887px;
+  width: 561px;
+  height: 468px;
+  z-index: 85;
+}
+
+
+
+
+.dinner_jpeg {
+  background-image: url(../images/dinner.jpeg);
+  position: absolute;
+  left: 0px;
+  top: 1355px;
+  width: 640px;
+  height: 468px;
+  z-index: 77;
+}
+
+.Dinner {
+  font-size: 72px;
+  font-family: "Relation two";
+  color: rgb(170, 34, 44);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00049309849941,0,0,1.00052765332346,0,0);
+  -webkit-transform: matrix( 1.00049309849941,0,0,1.00052765332346,0,0);
+  -ms-transform: matrix( 1.00049309849941,0,0,1.00052765332346,0,0);
+  position: absolute;
+  left: 724.286px;
+  top: 1400.286px;
+  width: 178.632px;
+  height: 50.404px;
+  z-index: 82;
+}
+
+
+.Dinner_Pricing {
+  font-size: 33.458px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.77748535177349,0,0,0.77751220440203,0,0);
+  -webkit-transform: matrix( 0.77748535177349,0,0,0.77751220440203,0,0);
+  -ms-transform: matrix( 0.77748535177349,0,0,0.77751220440203,0,0);
+  position: absolute;
+  left: 686.119px;
+  top: 1487.106px;
+  width: 400px;
+  height: 71.149px;
+  z-index: 81;
+}
+
+
+.Mashed_Potatoes_with_Gravy_Squash_Casserole_Dee {
+  font-size: 27px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00049309849941,0,0,1.00052765332346,0,0);
+  -webkit-transform: matrix( 1.00049309849941,0,0,1.00052765332346,0,0);
+  -ms-transform: matrix( 1.00049309849941,0,0,1.00052765332346,0,0);
+  position: absolute;
+  left: 726.418px;
+  top: 1567.146px;
+  width: 339.200px;
+  height: 182px;
+  z-index: 80;
+}
+
+.dinner_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 640px;
+  top: 1355px;
+  width: 562px;
+  height: 468px;
+  z-index: 79;
+}
+
+
+
+.Dessert {
+  font-size: 72px;
+  font-family: "Relation Two";
+  color: rgb(170, 34, 44);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,1.00028144250401,0,0);
+  -webkit-transform: matrix( 1,0,0,1.00028144250401,0,0);
+  -ms-transform: matrix( 1,0,0,1.00028144250401,0,0);
+  position: absolute;
+  left: 89.206px;
+  top: 1862.086px;
+  z-index: 74;
+}
+
+
+.Dessert_Pricing {
+  font-size: 27px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,1.00028144250401,0,0);
+  -webkit-transform: matrix( 1,0,0,1.00028144250401,0,0);
+  -ms-transform: matrix( 1,0,0,1.00028144250401,0,0);
+  position: absolute;
+  left: 86.589px;
+  top: 1959.946px;
+  z-index: 73;
+}
+
+
+.Pound_Cake_Pecan_Pie_Sweet_Potatoe_Pie_Apple_Pie_ {
+  font-size: 27px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,1.00028144250401,0,0);
+  -webkit-transform: matrix( 1,0,0,1.00028144250401,0,0);
+  -ms-transform: matrix( 1,0,0,1.00028144250401,0,0);
+  position: absolute;
+  left: 87.082px;
+  top: 1998.546px;
+  width: 211.756px;
+  height: 123.2px;
+  z-index: 72;
+}
+
+.dessert_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 1823px;
+  width: 640px;
+  height: 468px;
+  z-index: 71;
+}
+
+.dessert_jpeg {
+  background-image: url(../images/dessert.jpeg);
+  position: absolute;
+  left: 640px;
+  top: 1823px;
+  width: 560px;
+  height: 468px;
+  z-index: 69;
+}
+
+
+
+.bev_jpeg {
+  background-image: url(../images/bev.jpeg);
+  position: absolute;
+  left: 0px;
+  top: 2292px;
+  width: 640px;
+  height: 469px;
+  z-index: 65;
+}
+
+
+.Beverages {
+  font-size: 72px;
+  font-family: "Relation Two";
+  color: rgb(170, 34, 44);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.99924565133444,0,0,1.00020237092513,0,0);
+  -webkit-transform: matrix( 0.99924565133444,0,0,1.00020237092513,0,0);
+  -ms-transform: matrix( 0.99924565133444,0,0,1.00020237092513,0,0);
+  position: absolute;
+  left: 722.208px;
+  top: 2329.801px;
+  z-index: 64;
+}
+
+
+.Bev_pricing {
+  font-size: 27px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.99924565133444,0,0,1.00020237092513,0,0);
+  -webkit-transform: matrix( 0.99924565133444,0,0,1.00020237092513,0,0);
+  -ms-transform: matrix( 0.99924565133444,0,0,1.00020237092513,0,0);
+  position: absolute;
+  left: 726.454px;
+  top: 2427.8px;
+  z-index: 63;
+}
+
+
+
+.Iced_Tea_Lemonade_Coffee_Orange_Juice_Fountain_ {
+  font-size: 27px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.99924565133444,0,0,1.00020237092513,0,0);
+  -webkit-transform: matrix( 0.99924565133444,0,0,1.00020237092513,0,0);
+  -ms-transform: matrix( 0.99924565133444,0,0,1.00020237092513,0,0);
+  position: absolute;
+  left: 726.438px;
+  top: 2467.846px;
+  width: 195.124px;
+  height: 149.6px;
+  z-index: 62;
+}
+
+
+
+.bev_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 640px;
+  top: 2291px;
+  width: 560px;
+  height: 468px;
+  z-index: 61;
+}
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+a{ 
+	color: white;
+	text-decoration: none;	
+
+}
+
+a:hover{
+	color: black;
+	
+}
+
+ul{
+	list-style-type: none;
+}
+
+
+
+.menu_home {
+  font-size: 50px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 321px;
+  top: 736px;
+  z-index: 24;
+}
+
+
+.catering_home {
+  font-size: 50px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 516px;
+  top: 734.678px;
+  z-index: 25;
+}
+
+
+.abut_home {
+  font-size: 50px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 776.001px;
+  top: 734.678px;
+  z-index: 26;
+}

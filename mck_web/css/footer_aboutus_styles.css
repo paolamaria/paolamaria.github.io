@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+.foot_add_abt {
+  font-size: 26px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 85px;
+  top: 2230.393px;
+  z-index: 122;
+}
+
+
+.foot_num_abt {
+  font-size: 26px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 85px;
+  top: 2301.393px;
+  z-index: 121;
+}
+
+
+.fb_footer_abt_png {
+  background-image: url(../images/fb_footer_abt.png);
+  position: absolute;
+  left: 887px;
+  top: 2245px;
+  width: 61px;
+  height: 59px;
+  z-index: 125;
+}
+
+
+.twitter_foot_abt_png {
+  background-image: url(../images/twitter_foot_abt.png);
+  position: absolute;
+  left: 967px;
+  top: 2245px;
+  width: 62px;
+  height: 62px;
+  z-index: 124;
+}
+
+
+.insta_foot_abt_png {
+  background-image: url(../images/insta_foot_abt.png);
+  position: absolute;
+  left: 1047px;
+  top: 2245px;
+  width: 61px;
+  height: 61px;
+  z-index: 123;
+}
+
+
+.footer_abt_png {
+  background-color: rgb(0, 54, 99);
+  position: absolute;
+  left: -2px;
+  top: 2210px;
+  width: 1202px;
+  height: 144px;
+  z-index: 120;
+}

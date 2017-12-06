@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+.mytype2 {
+	font-family: "relation-two", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	}
+
+.mytype1 {
+	font-family: "Georgia";}
+
+.catering_jpeg {
+  background-image: url(../images/catering.jpeg);
+  position: absolute;
+  left: -2px;
+  top: 177px;
+  width: 640px;
+  height: 794px;
+  z-index: 113;
+}
+
+.Catering {
+  font-size: 72px;
+  font-family: "Relation Two";
+  color: rgb(170, 34, 44);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 803.752px;
+  top: 327.873px;
+  width: 218px;
+  height: 65px;
+  z-index: 112;
+}
+
+
+
+.Catering_text {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 726.838px;
+  top: 417.764px;
+  width: 375px;
+  height: 126px;
+  z-index: 111;
+}
+
+
+.ateringbkgrnd_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 638px;
+  top: 178px;
+  width: 562px;
+  height: 793px;
+  z-index: 105;
+}
+
+.Order_Now {
+  font-size: 17.419px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.55007201455446,0,0,1.55007201455447,0,0);
+  -webkit-transform: matrix( 1.55007201455446,0,0,1.55007201455447,0,0);
+  -ms-transform: matrix( 1.55007201455446,0,0,1.55007201455447,0,0);
+  position: absolute;
+  left: 865.489px;
+  top: 627.549px;
+  z-index: 109;
+}
+
+
+.ordernow_png {
+  border-radius: 10px;
+  background-color: rgb(5, 26, 73);
+  position: absolute;
+  left: 726px;
+  top: 603px;
+  width: 380px;
+  height: 71px;
+  z-index: 108;
+}

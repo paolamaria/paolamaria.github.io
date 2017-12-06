@@ -1,0 +1,375 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.mytype2 {
+	font-family: "relation-two", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.mytype1 {
+	font-family: 'Georgia';
+	font-style: normal;
+}
+
+
+.about_us_jpeg {
+  background-image: url(../images/about_us.jpeg);
+  position: absolute;
+  left: 0px;
+  top: 178px;
+  width: 641px;
+  height: 759px;
+  z-index: 53;
+}
+
+.About_Us {
+  font-size: 72px;
+  font-family: "Relation Two";
+  color: #AA222C;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 788.057px;
+  top: 331.168px;
+  z-index: 56;
+}
+
+.AboutUs_Txt {
+  font-size: 24px;
+  font-family: "Georgia";
+  color: rgb(86, 88, 83);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.90068280571074,0,0,0.9002557544757,0,0);
+  -webkit-transform: matrix( 0.90068280571074,0,0,0.9002557544757,0,0);
+  -ms-transform: matrix( 0.90068280571074,0,0,0.9002557544757,0,0);
+  position: absolute;
+  left: 704.054px;
+  top: 409.385px;
+  width: 467.461px;
+  height: 368.6px;
+  z-index: 54;
+}
+
+
+
+.about_us_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 640px;
+  top: 177px;
+  width: 560px;
+  height: 761px;
+  z-index: 52;
+}
+
+
+
+.Location {
+  font-size: 72px;
+  font-family: "Relation Two";
+  color: #AA222C;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 132.965px;
+  top: 977.384px;
+  z-index: 49;
+}
+
+.Addres {
+  font-size: 30px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 147px;
+  top: 1071.607px;
+  z-index: 48;
+}
+
+.locattion_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 937px;
+  width: 641px;
+  height: 620px;
+  z-index: 45;
+}
+
+.map_png {
+  background-image: url(../images/map.png);
+  position: absolute;
+  left: 152px;
+  top: 1171px;
+  width: 419px;
+  height: 336px;
+  z-index: 47;
+}
+
+.location_jpeg {
+  background-image: url(../images/location.jpeg);
+  position: absolute;
+  left: 642px;
+  top: 938px;
+  width: 560px;
+  height: 619px;
+  z-index: 46;
+}
+
+
+.Contact_Us {
+  font-size: 72px;
+  font-family: "Relation Two";
+  color: rgb(147, 1, 30);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00064781887312,0,0,0.99795240073417,0,0);
+  -webkit-transform: matrix( 1.00064781887312,0,0,0.99795240073417,0,0);
+  -ms-transform: matrix( 1.00064781887312,0,0,0.99795240073417,0,0);
+  position: absolute;
+  left: 467.097px;
+  top: 1595.422px;
+  z-index: 42;
+}
+
+
+.res_hour_head {
+  font-size: 30px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -webkit-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -ms-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  position: absolute;
+  left: 146.184px;
+  top: 1728.107px;
+  width: 600px;
+  height: 21px;
+  z-index: 42;
+}
+
+
+.res_hours_bod {
+  font-size: 30px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -webkit-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -ms-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  position: absolute;
+  left: 145.466px;
+  top: 1770.607px;
+  width: 500px;
+  height: 66px;
+  z-index: 41;
+}
+
+.phone_email {
+  font-size: 30px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00064781887312,0,0,0.99795240073417,0,0);
+  -webkit-transform: matrix( 1.00064781887312,0,0,0.99795240073417,0,0);
+  -ms-transform: matrix( 1.00064781887312,0,0,0.99795240073417,0,0);
+  position: absolute;
+  left: 144.863px;
+  top: 1885.107px;
+  width: 200.275px;
+  height: 59px;
+  z-index: 41;
+}
+
+
+.contact_info {
+  font-size: 30px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00064781887312,0,0,0.99795240073417,0,0);
+  -webkit-transform: matrix( 1.00064781887312,0,0,0.99795240073417,0,0);
+  -ms-transform: matrix( 1.00064781887312,0,0,0.99795240073417,0,0);
+  position: absolute;
+  left: 265.141px;
+  top: 1884.607px;
+  width: 396.719px;
+  height: 66px;
+  z-index: 40;
+}
+
+.insert_fn {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -webkit-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -ms-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  position: absolute;
+  left: 627.384px;
+  top: 1740.7px;
+  z-index: 36;
+}
+
+
+.fn_box_png {
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 620px;
+  top: 1733px;
+  width: 228px;
+  height: 33px;
+  z-index: 35;
+}
+
+.insert_ln {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -webkit-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -ms-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  position: absolute;
+  left: 881.558px;
+  top: 1740.2px;
+  z-index: 37;
+}
+
+.ln_box_png {
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 869px;
+  top: 1733px;
+  width: 226px;
+  height: 33px;
+  z-index: 34;
+}
+
+
+.insert_email {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -webkit-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -ms-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  position: absolute;
+  left: 627.844px;
+  top: 1794.7px;
+  z-index: 38;
+}
+
+.email_box_png {
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 620px;
+  top: 1787px;
+  width: 476px;
+  height: 33px;
+  z-index: 33;
+}
+
+.insert_comm {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -webkit-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  -ms-transform: matrix( 1,0,0,0.99934457797356,0,0);
+  position: absolute;
+  left: 627.38px;
+  top: 1850.2px;
+  z-index: 39;
+}
+
+.com_box_png {
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 620px;
+  top: 1840px;
+  width: 476px;
+  height: 214px;
+  z-index: 32;
+}
+
+.Submit {
+  font-size: 17.419px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.55007201455446,0,0,1.54905606321357,0,0);
+  -webkit-transform: matrix( 1.55007201455446,0,0,1.54905606321357,0,0);
+  -ms-transform: matrix( 1.55007201455446,0,0,1.54905606321357,0,0);
+  position: absolute;
+  left: 813.408px;
+  top: 2110.549px;
+  z-index: 32;
+}
+
+
+.submit_png {
+  border-radius: 10px;
+  background-color: rgb(5, 26, 73);
+  position: absolute;
+  left: 728px;
+  top: 2094px;
+  width: 241px;
+  height: 54px;
+  z-index: 31;
+}
+
+
+
+.contact_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 1557px;
+  width: 1200px;
+  height: 652px;
+  z-index: 29;
+}
+
+

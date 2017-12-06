@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.logo_home_png {
+  background-image: url(../images/logo_home.png);
+  position: absolute;
+  left: 324px;
+  top: 174px;
+  width: 585px;
+  height: 439px;
+  z-index: 23;
+}
+
+
+
+.home_color_png {
+  background-color: rgb(254, 212, 167);
+  opacity: 0.671;
+  position: absolute;
+  left: 0px;
+  top: -7px;
+  width: 1200px;
+  height: 859px;
+  z-index: 22;
+}
+
+
+
+.home_jpeg {
+  background-image: url(../images/home.jpeg);
+  position: absolute;
+  left: -1px;
+  top: 0px;
+  width: 1199px;
+  height: 854px;
+  z-index: 20;
+}

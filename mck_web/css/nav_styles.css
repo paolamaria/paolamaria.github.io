@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.mytype3 {
+	font-family: 'Tahoma';
+	font-weight: normal;
+}
+
+a{ 
+	color: white;
+	text-decoration: none;	
+
+}
+
+a:hover{
+	color: black;
+	
+}
+
+ul{
+	list-style-type: none;
+}
+
+
+.home_nav {
+  font-size: 35.72px;
+  font-family: 'Tahoma';
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00046312426758,-1.04061746436477e-16,0,1.0078416389456,0,0);
+  -webkit-transform: matrix( 1.00046312426758,-1.04061746436477e-16,0,1.0078416389456,0,0);
+  -ms-transform: matrix( 1.00046312426758,-1.04061746436477e-16,0,1.0078416389456,0,0);
+  position: absolute;
+  left: 67.656px;
+  top: 100.068px;
+  z-index: 146;
+}
+
+
+
+.menu_nav {
+  font-size: 35.72px;
+  font-family: 'Tahoma';
+  color: white;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00046312426758,2.51482993735268e-16,0,1.0078416389456,0,0);
+  -webkit-transform: matrix( 1.00046312426758,2.51482993735268e-16,0,1.0078416389456,0,0);
+  -ms-transform: matrix( 1.00046312426758,2.51482993735268e-16,0,1.0078416389456,0,0);
+  position: absolute;
+  left: 304.556px;
+  top: 100.068px;
+  z-index: 140;
+}
+
+
+.logo_png {
+  background-image: url(../images/logo.png);
+  position: absolute;
+  left: 470px;
+  top: 17px;
+  width: 182px;
+  height: 140px;
+  z-index: 145;
+}
+
+.catering_nav {
+  font-size: 37.704px;
+  font-family: 'Tahoma';
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00046312426758,-1.04061746436477e-16,0,1.0078416389456,0,0);
+  -webkit-transform: matrix( 1.00046312426758,-1.04061746436477e-16,0,1.0078416389456,0,0);
+  -ms-transform: matrix( 1.00046312426758,-1.04061746436477e-16,0,1.0078416389456,0,0);
+  position: absolute;
+  left: 728.925px;
+  top: 99.187px;
+  z-index: 139;
+}
+
+.about_nav {
+  font-size: 37.704px;
+  font-family: 'Tahoma';
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00046312426758,-1.04061746436477e-16,0,1.0078416389456,0,0);
+  -webkit-transform: matrix( 1.00046312426758,-1.04061746436477e-16,0,1.0078416389456,0,0);
+  -ms-transform: matrix( 1.00046312426758,-1.04061746436477e-16,0,1.0078416389456,0,0);
+  position: absolute;
+  left: 987.735px;
+  top: 98.878px;
+  z-index: 135;
+}
+
+
+.Nav_bar_png {
+  background-color: rgb(170, 34, 44);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1202px;
+  height: 178px;
+  z-index: 130;
+}
